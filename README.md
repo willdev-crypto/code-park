@@ -1,4 +1,4 @@
-## Instruções do projeto
+## Instruções do projeto para exercicio de code-park 
 
 Você faz parte da equipe de Front End de um e-commerce onde usuários poderão comprar e vender produtos relacionados à cultura geek. A equipe de Back End está desenvolvendo uma API para você permitir aos usuários postar os produtos que querem vender, e para isso encaminharam para você os seguinte trecho da documentação que estão montando:
 
